@@ -1,6 +1,6 @@
-### Hi there, I'm Vishnuvarman
+## Hi there, I'm Vishnuvarman
 
-## I'm a  final year student pursuing Bachelor of Technology in [Sri Manakula Vinayagar Engineering College][smvec]
+### I'm a  final year student pursuing Bachelor of Technology in [Sri Manakula Vinayagar Engineering College][smvec]
 
 ### Connect with me:
 
